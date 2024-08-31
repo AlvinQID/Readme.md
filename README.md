@@ -1,3 +1,3 @@
 # Readme.md
 
-[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
+[![Random Image](https://alvinqid.ddns.net/api/chat-ai?q=apa%20itu%20chrome)](https://imapi.ingfomenkrep.my.id/random-link)
